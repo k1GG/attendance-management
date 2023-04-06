@@ -1,0 +1,42 @@
+.header{
+    width: 100%;
+    overflow: hidden;
+    background-color: black;
+}
+
+.header p{
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 15px;
+    border-radius: 4px;
+
+}
+
+.header p.logo{
+    font-size: 25px;
+    font-weight: bold;
+    color: #3949f6;
+}
+
+.header p.active{
+    background-color: #3962f6;
+    color: white;
+}
+
+.header-right{
+    float:right
+}
+.inputfield{
+    width: 40% !important;
+    padding: 1px;
+    margin-top: 5px;
+    margin-right: 6px;
+    border: none;
+    font-size: 17px;
+
+}
+
